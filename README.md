@@ -5,7 +5,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">C_Project_hospital</h3>
@@ -87,8 +86,8 @@ after cloning all the files from the github, the user that wants to start the pr
 ## Contact
 
 Varnit Mittal - https://github.com/varnit-mittal
-
-
+<br>
+Aditya Priyadarshi - https://github.com/ap5967ap
 
 
 
