@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+<!--   <a href="https://github.com/othneildrew/Best-README-Template"> -->
   </a>
 
   <h3 align="center">C_Project_hospital</h3>
